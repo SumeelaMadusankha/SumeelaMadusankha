@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hasumeela@gmail.com**
 
-- 😎 Fun fact **Talk with me, then realize😄**
+- 😎 Fun fact **😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
