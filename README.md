@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sumeela Madusankha</h1>
 <h3 align="center">A passionate developer and learner.</h3>
 
-- 🔭 I’m currently working on **semester 5 SE project**
+- 🔭 I’m currently working on **Final Year Project**
 
-- 🌱 I’m currently learning **Flutter and React Native**
 
 - 👯 I’m looking to collaborate on **more projects**
 
